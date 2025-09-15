@@ -134,9 +134,10 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 - **Email**: sirayushrajsocials@gmail.com
 - **LinkedIn**: [Not Currently Available]()
 - **GitHub**: [github.com/theyushhh](https://github.com/theyushhh)
-- **X.com**: [https://x.com/Ayushraj294].(https://x.com/Ayushraj294).
+- **X.com**: [https://x.com/Ayushraj294](https://x.com/Ayushraj294)
 
 ---
 
 Made with ❤️ by Ayush Raj
+
 
